@@ -1,0 +1,3 @@
+Open Ports:
+['Port 21: OPEN', 'Port 80: OPEN', 'Port 81: OPEN', 'Port 110: OPEN', 'Port 143: OPEN', 'Port 443: OPEN', 'Port 444: OPEN', 'Port 465: OPEN', 'Port 587: OPEN', 'Port 993: OPEN', 'Port 995: OPEN']
+
